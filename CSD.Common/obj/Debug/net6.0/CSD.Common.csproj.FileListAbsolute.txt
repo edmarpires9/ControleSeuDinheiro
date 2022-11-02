@@ -1,0 +1,12 @@
+C:\Edmar\Workspace\ControleSeuDinheiro\CSD.Common\bin\Debug\net6.0\CSD.Common.deps.json
+C:\Edmar\Workspace\ControleSeuDinheiro\CSD.Common\bin\Debug\net6.0\CSD.Common.dll
+C:\Edmar\Workspace\ControleSeuDinheiro\CSD.Common\bin\Debug\net6.0\CSD.Common.pdb
+C:\Edmar\Workspace\ControleSeuDinheiro\CSD.Common\obj\Debug\net6.0\CSD.Common.csproj.AssemblyReference.cache
+C:\Edmar\Workspace\ControleSeuDinheiro\CSD.Common\obj\Debug\net6.0\CSD.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Edmar\Workspace\ControleSeuDinheiro\CSD.Common\obj\Debug\net6.0\CSD.Common.AssemblyInfoInputs.cache
+C:\Edmar\Workspace\ControleSeuDinheiro\CSD.Common\obj\Debug\net6.0\CSD.Common.AssemblyInfo.cs
+C:\Edmar\Workspace\ControleSeuDinheiro\CSD.Common\obj\Debug\net6.0\CSD.Common.csproj.CoreCompileInputs.cache
+C:\Edmar\Workspace\ControleSeuDinheiro\CSD.Common\obj\Debug\net6.0\CSD.Common.dll
+C:\Edmar\Workspace\ControleSeuDinheiro\CSD.Common\obj\Debug\net6.0\refint\CSD.Common.dll
+C:\Edmar\Workspace\ControleSeuDinheiro\CSD.Common\obj\Debug\net6.0\CSD.Common.pdb
+C:\Edmar\Workspace\ControleSeuDinheiro\CSD.Common\obj\Debug\net6.0\ref\CSD.Common.dll

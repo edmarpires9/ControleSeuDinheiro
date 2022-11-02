@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSD/1.0.0": {
+        "dependencies": {
+          "CSD.Common": "1.0.0"
+        },
+        "runtime": {
+          "CSD.dll": {}
+        }
+      },
+      "CSD.Common/1.0.0": {
+        "runtime": {
+          "CSD.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSD.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
